@@ -42,11 +42,11 @@ ul li {
 .navbar .logo {
     color: #f9faf8;
     font-size: 24px;
-    /* font-weight: bold; */
+    font-weight: bold;
 }
 
 .navbar a {
-    color: #fff;
+    color: #e5e7eb;
     text-decoration:none;
     font-size: 18px;
     font-weight: bold;
